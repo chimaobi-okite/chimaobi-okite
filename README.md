@@ -26,3 +26,7 @@ a penultimate year Electrical/Electronics engineering student with industry focu
 
 ### :writing_hand: Blog Posts :
 [Decision Trees For Supervised Machine Learning - Demystifying The Workflow](https://tealfeed.com/decision-trees-supervised-machine-learning-demystifying-83kuj)
+
+### Highlights
+* [News-Categorization-demo](https://huggingface.co/spaces/okite97/news-demo)
+* [Kaggle Feedback prize competition entry](https://github.com/chimaobi-okite/Feedback_prize_Kaggle)
